@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-<!--
-**xLucaPMx/xLucaPMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="wrapper">
+  <h1 data-text="DesignCourse">DesignCourse</h1>
+  <h2 data-text="SoundTrack">SoundTrack</h2>
+</div>
 
-Here are some ideas to get you started:
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/2621168/bg.svg" alt="background">
+
+<div class="graph-container">
+  <div class="graph"></div>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

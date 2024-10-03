@@ -1,7 +1,3 @@
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="">
-</div>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ LUCA! 
@@ -9,7 +5,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a AI and Machine Learning Enthusiast with a huge love for technology and progress. </p>
+<p align="left">I am an AI and Machine Learning Enthusiast with a huge love for technology and progress. </p>
 
 - ✨ Student of life.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -77,19 +73,19 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:xlucapmx@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=xlucapmx@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt=xlucapmx@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/luca_pm7" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=luca_pm7 Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white alt=luca_pm7 Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/luca_pm7" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="luca_pm7 X" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="luca_pm7 X" style="margin-bottom: 5px;" />
 </a>
 </div>
 

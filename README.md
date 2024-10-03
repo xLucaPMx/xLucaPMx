@@ -7,11 +7,11 @@
 <!--Start Intro-->               
 <p align="left">I am an AI and Machine Learning Enthusiast with a huge love for technology and progress. </p>
 
-- ✨ Student of life.
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙  Wanting to participate in the most powerful technological advance.
-- 💁‍♂️ Great interest in backend and Python.
-- ❤ Contributing to Open Source.
+- :zap: Student of life.
+- :dart: I’m currently learning many things, I believe that everyday is a learning opportunity.
+- :unlock:  Wanting to participate in the most powerful technological advance.
+- :globe_with_meridians: Great interest in backend and Python.
+- :unlock: Contributing to Open Source.
 <!--End Intro-->
 
 <!--Profile Count Badge-->

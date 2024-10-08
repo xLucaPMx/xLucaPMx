@@ -1,6 +1,7 @@
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ LUCA! 
+# ![4840e03a-31db-4e43-89d2-8f5e756fb1bd](https://github.com/user-attachments/assets/394eedc5-3e52-455b-af54-f4c1f6f24f6b)
+
 *Programming Student*
 <br /> 
 
@@ -9,8 +10,8 @@
 
 - :zap: Student of life.
 - :dart: I’m currently learning many things, I believe that everyday is a learning opportunity.
-- :unlock:  Wanting to participate in the most powerful technological advance.
-- :globe_with_meridians: Great interest in backend and Python.
+- :globe_with_meridians: Lover of technological progress.
+- :computer: Great interest in backend and Python.
 - :unlock: Contributing to Open Source.
 <!--End Intro-->
 

@@ -39,6 +39,12 @@ I am an AI and Machine Learning Enthusiast with a huge love for technology and p
 :heavy_check_mark: Development Environments
 :heavy_check_mark: Digitalization applied to Productive Sectors
 
+[Preferencias tecnológicas]: #
+
+<h2 align="center">TECHNOLOGICAL PREFERENCES </h2>
+
+
+
 [Trofeos]: #   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">

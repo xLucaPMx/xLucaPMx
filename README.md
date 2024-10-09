@@ -1,38 +1,45 @@
 
-<!--Header Name-->
+[Cabecera]: #
 # ![374581449-394eedc5-3e52-455b-af54-f4c1f6f24f6b (1)](https://github.com/user-attachments/assets/07790ffb-2bb3-44ef-b915-58daf1b81706)
 
+> _Programming Student_
 
-*Programming Student*
-<br /> 
-
-<!--Start Intro-->               
-<p align="left">I am an AI and Machine Learning Enthusiast with a huge love for technology and progress. </p>
+[Intro]: #             
+I am an AI and Machine Learning Enthusiast with a huge love for technology and progress.
 
 - :zap: Student of life.
 - :dart: I’m currently learning many things, I believe that everyday is a learning opportunity.
 - :globe_with_meridians: Lover of technological progress.
 - :computer: Great interest in backend and Python.
 - :unlock: Contributing to Open Source.
-<!--End Intro-->
 
-<!--Profile Count Badge-->
+[Contador de visitas]: #
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xLucaPMx&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=xLucaPMx&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="xLucaPMx" style="padding-right:20px;" />
 </p>
 
----
-<br />
+[Entidad y nivel educativo]: #
+#### :book: Currently studying ***Cross-platform Application Development***
+#### in [_CIFP La Conservera_](https://sites.google.com/view/fplaconservera)
 
-<!--Languages and Tools Section-->       
+[Stack tecnológico conocido y del curso]: #       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,vscode,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,javascript,git,markdown,html,css,vscode,linux,react,nodejs,express,mongodb,docker&perline=10"  />
 </p>
 <br />
 
+[Asignaturas matriculadas]: #
+<h2 align="center">SUBJECTS IN PROGRESS :chart_with_upwards_trend: </h2>
 
-<!--Trophies Section-->   
+:heavy_check_mark: Programming
+:heavy_check_mark: Computer Systems
+:heavy_check_mark: Databases
+:heavy_check_mark: Markup Languages ​​and Information Management Systems
+:heavy_check_mark: Development Environments
+:heavy_check_mark: Digitalization applied to Productive Sectors
+
+[Trofeos]: #   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/xLucaPMx/github-profile-trophy">
@@ -41,7 +48,7 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
+[Estadísticas]: # 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -67,11 +74,8 @@
     </td>
   </tr>
 </table>
-<br />
 
-
-<!--Contact Section--> 
-
+[Contacto]: # 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="" target="_blank">
@@ -91,7 +95,7 @@
 </a>
 </div>
 
-<!--Footer--> 
+[Pie]: # 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>

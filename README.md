@@ -6,7 +6,6 @@
 
 [Intro]: #             
 I am an AI and Machine Learning Enthusiast with a huge love for technology and progress.
-
 - :zap: Student of life.
 - :dart: I’m currently learning many things, I believe that everyday is a learning opportunity.
 - :globe_with_meridians: Lover of technological progress.
@@ -23,14 +22,14 @@ I am an AI and Machine Learning Enthusiast with a huge love for technology and p
 #### in [_CIFP La Conservera_](https://sites.google.com/view/fplaconservera)
 
 [Stack tecnológico conocido y del curso]: #       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">ʟᴀɴɢᴜᴀᴊᴇꜱ ᴀɴᴅ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,javascript,git,markdown,html,css,vscode,linux,react,nodejs,express,mongodb,docker&perline=10"  />
 </p>
 <br />
 
 [Asignaturas matriculadas]: #
-<h2 align="center">SUBJECTS IN PROGRESS :chart_with_upwards_trend: </h2>
+<h2 align="center">ꜱᴜʙᴊᴇᴄᴛꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ :chart_with_upwards_trend: </h2>
 
 :heavy_check_mark: Programming
 :heavy_check_mark: Computer Systems
@@ -41,12 +40,12 @@ I am an AI and Machine Learning Enthusiast with a huge love for technology and p
 
 [Preferencias tecnológicas]: #
 
-<h2 align="center">TECHNOLOGICAL PREFERENCES </h2>
+<h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ</h2>
 
 
 
 [Trofeos]: #   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʜʀᴏᴘʜɪᴇꜱ 🏆</h2>
 <p align="center">
   <a href="https://github.com/xLucaPMx/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xLucaPMx&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">

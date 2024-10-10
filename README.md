@@ -42,6 +42,7 @@ I am an AI and Machine Learning Enthusiast with a huge love for technology and p
 
 <h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ</h2>
 
+![7b8fbfeba3cfea03ce5d563abd6db6e2_preview_rev_1 (1)](https://github.com/user-attachments/assets/681fe00a-7947-4be8-906b-372c4a78102d) ![png-clipart-artificial-intelligence-artificial-brain-technology-deep-learning-machine-learning-brain-electronics-text-thumbnail_preview_rev_2](https://github.com/user-attachments/assets/a42022f5-ce7c-45df-bf61-f61e6b502551)
 
 
 [Trofeos]: #   

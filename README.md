@@ -17,7 +17,7 @@
 
 [Entidad y nivel educativo]: #
 #### :book: Currently studying ***Cross-platform Application Development***
-#### in [_CIFP La Conservera_](https://sites.google.com/view/fplaconservera)
+#### in [_CIFPD La Conservera_](https://sites.google.com/view/fplaconservera)
 
 [Stack tecnológico conocido y del curso]: #       
 <h2 align="center">ʟᴀɴɢᴜᴀᴊᴇꜱ ᴀɴᴅ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ</h2> 

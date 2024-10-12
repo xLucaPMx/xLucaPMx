@@ -16,7 +16,7 @@
 </p>
 
 [Entidad y nivel educativo]: #
-#### :book: Currently studying ***Cross-platform Application Development***
+#### :book: Studying ***Cross-platform Application Development***
 #### in [_CIFPD La Conservera_](https://sites.google.com/view/fplaconservera)
 
 [Stack tecnológico conocido y del curso]: #       
@@ -40,9 +40,6 @@
 <h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ :globe_with_meridians:</h2>
 
 ![png-clipart-artificial-intelligence-artificial-brain-technology-deep-learning-machine-learning-brain-electronics-text-thumbnail_preview_rev_2](https://github.com/user-attachments/assets/a42022f5-ce7c-45df-bf61-f61e6b502551) ![pngegg (2)](https://github.com/user-attachments/assets/87002959-7430-4c4f-aec6-8fad6dad3770) ![7b8fbfeba3cfea03ce5d563abd6db6e2_preview_rev_1 (1)](https://github.com/user-attachments/assets/681fe00a-7947-4be8-906b-372c4a78102d) 
-
-
-
 
 [Trofeos]: #   
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʜʀᴏᴘʜɪᴇꜱ 🏆</h2>

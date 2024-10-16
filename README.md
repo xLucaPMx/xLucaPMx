@@ -42,8 +42,9 @@
 | _Programming_ | _Databases_ | _Development Environments_ | _Mark Languajes_ |
 | ------------- | ----------- | -------------------------- | ---------------- |
 | Java          | MySQL       | VS Code                    | HTML             |
-| Python        |             | Django & Flask             | Markdown         |
-|               |             |                            | CSS              |
+| JavaScript    | Docker      | React                      | Markdown         |
+| Python        | MongoD      | Node.js                    | CSS              |
+|               |             | Git                        |                  |
 
 [Trofeos]: #   
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʜʀᴏᴘʜɪᴇꜱ 🏆</h2>

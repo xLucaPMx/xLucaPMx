@@ -36,8 +36,8 @@
 :heavy_check_mark: Development Environments
 :heavy_check_mark: Digitalization applied to Productive Sectors
 
-[Preferencias tecnológicas]: #
-<h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ :globe_with_meridians:</h2>
+[Stack tecnológico del curso]: #
+<h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ :globe_with_meridians:</h2>
 
 | _Programming_ | _Databases_ | _Development Environments_ | _Mark Languajes_ |
 | ------------- | ----------- | -------------------------- | ---------------- |
@@ -45,6 +45,12 @@
 | JavaScript    | Docker      | React                      | Markdown         |
 | Python        | MongoD      | Node.js                    | CSS              |
 |               |             | Git                        |                  |
+
+[Preferencias tecnológicas]: #
+### ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ
+![8099229 (1)](https://github.com/user-attachments/assets/6098a57c-f77e-43ce-a1b6-63fd595560ef)
+> Backend
+
 
 [Trofeos]: #   
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʜʀᴏᴘʜɪᴇꜱ 🏆</h2>

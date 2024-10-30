@@ -39,11 +39,11 @@
 [Stack tecnológico del curso]: #
 <h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ :globe_with_meridians:</h2>
 
-| _Programming_ | _Databases_ | _Development Environments_ | _Mark Languajes_ |
+| _Programming_ | _Databases_ | _Development Environments_ | _Markup Languages_ |
 | ------------- | ----------- | -------------------------- | ---------------- |
 | Java          | MySQL       | VS Code                    | HTML             |
 | JavaScript    | Docker      | React                      | Markdown         |
-| Python        | MongoD      | Node.js                    | CSS              |
+| Python        | MongoDB     | Node.js                    | CSS              |
 |               |             | Git                        |                  |
 
 [Preferencias tecnológicas]: #

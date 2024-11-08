@@ -52,41 +52,20 @@
 > Backend
 
 
-[Trofeos]: #   
-<h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʜʀᴏᴘʜɪᴇꜱ 🏆</h2>
+[Estadísticas]: # 
+
+<h2 align="center">🏆 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 🏆</h2>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xLucaPMx&theme=dark" alt="GitHub Streak" /></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/xLucaPMx/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=xLucaPMx&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
-<br />
-
-[Estadísticas]: # 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/xLucaPMx">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=xLucaPMx&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/xLucaPMx">
-          <img align="center" src="https://streak-stats.demolab.com?user=xLucaPMx&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-      </p>
-    </td>
-  </tr>
-</table>
+<br/>
 
 [Contacto]: # 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>

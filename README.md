@@ -1,7 +1,7 @@
 
 [Cabecera]: #
 
-<p align="center">
+<p>
 <img src="https://github.com/user-attachments/assets/07790ffb-2bb3-44ef-b915-58daf1b81706"/>
 </p>
 

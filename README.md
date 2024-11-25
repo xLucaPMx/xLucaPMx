@@ -1,6 +1,9 @@
 
 [Cabecera]: #
-# ![374581449-394eedc5-3e52-455b-af54-f4c1f6f24f6b (1)](https://github.com/user-attachments/assets/07790ffb-2bb3-44ef-b915-58daf1b81706)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/07790ffb-2bb3-44ef-b915-58daf1b81706"/>
+</p>
 
 > _Programming Student_
 
@@ -24,7 +27,7 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,javascript,git,markdown,html,css,vscode,linux,react,nodejs,express,mongodb,docker&perline=10"  />
 </p>
-<br />
+<br/>
 
 [Asignaturas matriculadas]: #
 <h2 align="center">ꜱᴜʙᴊᴇᴄᴛꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ :chart_with_upwards_trend: </h2>
@@ -60,12 +63,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xLucaPMx&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/xLucaPMx/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xLucaPMx&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br/>
 
 [Contacto]: # 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>

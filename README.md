@@ -55,18 +55,20 @@
 > Backend
 
 
-[Contacto]: # 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+## 🤝 Connect With Me 🤝
+
 <div align="center">
- <a href="" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white alt=https://www.linkedin.com/in/luca-piras-mench%C3%B3n-b40524298/ style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/luca-piras-mench%C3%B3n-b40524298/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-  
+
 <a href="mailto:xlucapmx@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt=xlucapmx@gmail.com mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 </div>
+
 
 [Pie]: # 
 <p align="center">

@@ -55,15 +55,6 @@
 > Backend
 
 
-[Estadísticas]: # 
-
-<h2 align="center">🏆 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 🏆</h2>
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xLucaPMx&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
-
 [Contacto]: # 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
@@ -75,13 +66,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt=xlucapmx@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/luca_pm7" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white alt=luca_pm7 Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/luca_pm7" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="luca_pm7 X" style="margin-bottom: 5px;" />
-</a>
 </div>
 
 [Pie]: # 

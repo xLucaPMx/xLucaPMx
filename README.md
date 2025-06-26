@@ -29,31 +29,16 @@
 </p>
 <br/>
 
-[Asignaturas matriculadas]: #
-<h2 align="center">ꜱᴜʙᴊᴇᴄᴛꜱ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ :chart_with_upwards_trend: </h2>
-
-:heavy_check_mark: Programming
-:heavy_check_mark: Computer Systems
-:heavy_check_mark: Databases
-:heavy_check_mark: Markup Languages ​​and Information Management Systems
-:heavy_check_mark: Development Environments
-:heavy_check_mark: Digitalization applied to Productive Sectors
 
 [Stack tecnológico del curso]: #
 <h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ :globe_with_meridians:</h2>
 
 | _Programming_ | _Databases_ | _Development Environments_ | _Markup Languages_ |
 | ------------- | ----------- | -------------------------- | ---------------- |
-| Java          | MySQL       | VS Code                    | HTML             |
-| JavaScript    | Docker      | React                      | Markdown         |
+| Java          | MySQL       | VSCode                     | HTML             |
+| JavaScript    | PostgreSQL  | React                      | Markdown         |
 | Python        | MongoDB     | Node.js                    | CSS              |
-|               |             | Git                        |                  |
-
-[Preferencias tecnológicas]: #
-### ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ᴘʀᴇꜰᴇʀᴇɴᴄᴇꜱ
-![8099229 (1)](https://github.com/user-attachments/assets/6098a57c-f77e-43ce-a1b6-63fd595560ef)
-> Backend
-
+|               | Docker      | Git                        |                  |
 
 ## 🤝 Connect With Me 🤝
 
@@ -63,7 +48,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:xlucapmx@gmail.com" target="_blank">
+<a href="mailto:xlucapmx@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 

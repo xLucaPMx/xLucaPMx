@@ -27,8 +27,6 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,javascript,git,markdown,html,css,vscode,linux,react,nodejs,express,mongodb,docker&perline=10"  />
 </p>
-<br/>
-
 
 [Stack tecnológico del curso]: #
 <h2 align="center">:globe_with_meridians: ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ :globe_with_meridians:</h2>
@@ -40,20 +38,14 @@
 | Python        | MongoDB     | Node.js                    | CSS              |
 |               | Docker      | Git                        |                  |
 
-## 🤝 Connect With Me 🤝
-
+[Contacto]: # 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/luca-piras-mench%C3%B3n-b40524298/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="mailto:xlucapmx@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
 </div>
-
 
 [Pie]: # 
 <p align="center">
